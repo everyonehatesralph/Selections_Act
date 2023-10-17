@@ -1,29 +1,29 @@
 print("Want to know your Year Animal?")
-year = int(input("Please enter your birth year is: "))
+year = int(input("Please enter your Birth Year: "))
+
 zodiacyear = year % 12
 
-
 if zodiacyear == 0:
-			 print ("Your animal is: Monkey")
+	print ("Your animal is: Monkey")
 elif zodiacyear == 1:
-			 print ("Your animal is: Rooster")
+	print ("Your animal is: Rooster")
 elif zodiacyear == 2:
-			 print ("Your animal is: Dog")
+	print ("Your animal is: Dog")
 elif zodiacyear == 3:
-			 print ("Your animal is: Pig")
+	print ("Your animal is: Pig")
 elif zodiacyear == 4:
-			 print ("Your animal is: Rat")
+	print ("Your animal is: Rat")
 elif zodiacyear == 5:
-			 print ("Your animal is: Ox")
+	print ("Your animal is: Ox")
 elif zodiacyear == 6:
-			 print ("Your animal is: Tiger")
+	print ("Your animal is: Tiger")
 elif zodiacyear == 7:
-			 print ("Your animal is: Rabbit")
+	print ("Your animal is: Rabbit")
 elif zodiacyear == 8:
-			 print ("Your animal is: Dragon")
+	print ("Your animal is: Dragon")
 elif zodiacyear == 9:
-			 print ("Your animal is: Snake")
+	print ("Your animal is: Snake")
 elif zodiacyear == 10:
-			 print ("Your animal is: Horse")
+	print ("Your animal is: Horse")
 elif zodiacyear == 11:
-			 print ("Your animal is: Goat")
+	print ("Your animal is: Goat")
